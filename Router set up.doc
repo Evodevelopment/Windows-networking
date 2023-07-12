@@ -1,12 +1,18 @@
-Setting up and maintaining a router and home Wi-Fi network, there are several important tasks to consider. Here are some key aspects to focus on:
+Setting up and maintaining a router and home Wi-Fi network, there are several important tasks to consider. 
+Here are some key aspects to focus on:
 
-**Physical placement**: Ensure that the router is placed in a central location within the home, away from obstructions and interference. Position it at an elevated height for better signal propagation.
+**Physical placement**: Ensure that the router is placed in a central location within the home, away from obstructions 
+and interference. Position it at an elevated height for better signal propagation.
 
-Network security: Set a strong and unique password for the router's administration interface to prevent unauthorized access. Enable encryption (WPA2 or higher) for Wi-Fi connections and regularly update the router's firmware to address security vulnerabilities.
+Network security: Set a strong and unique password for the router's administration interface to prevent unauthorized access. 
+Enable encryption (WPA2 or higher) for Wi-Fi connections and regularly update the router's firmware to address security vulnerabilities.
 
-Network name (SSID): Set a unique and easily identifiable name for the Wi-Fi network (SSID) to distinguish it from other nearby networks. Avoid using personal information or easily guessable names.
+Network name (SSID): Set a unique and easily identifiable name for the Wi-Fi network (SSID) to distinguish it from other 
+nearby networks. Avoid using personal information or easily guessable names.
 
-Wi-Fi channels: Check for Wi-Fi interference from neighboring networks and select an appropriate Wi-Fi channel to minimize interference. You can use tools like Wi-Fi analyzer apps or built-in router features to determine the optimal channel.
+Wi-Fi channels: Check for Wi-Fi interference from neighboring networks and select an appropriate 
+Wi-Fi channel to minimize interference. You can use tools like Wi-Fi analyzer apps or built-in router 
+features to determine the optimal channel.
 
 Wireless security protocols: Enable the highest level of wireless security protocol supported by your devices, such as WPA2-PSK (AES). Avoid using outdated or insecure protocols like WEP.
 
