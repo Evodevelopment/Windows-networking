@@ -1,2 +1,3 @@
 # Does your pc support Wi-Fi 6 / 802.11ax ?  / must be in radio types supported after writing this command
 netsh wlan show drivers
+
